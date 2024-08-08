@@ -44,3 +44,21 @@
 .agricultura-titulo{
     padding: 24px 0;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.imagem-agricultura{
+    width: 120px;
+}
+
+.agricultura-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.agricultura-div{
+    text-align: center;
+    padding: 16px 0;
+}
