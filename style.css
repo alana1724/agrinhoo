@@ -5,7 +5,7 @@
 
 
 .cabecalho {
-    background-color: #0cb14b;
+    background-color: #0d9108;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -24,3 +24,23 @@
 
 }
    
+.agricultura-imagem{
+    width: 30%;
+}
+
+.agricultura{
+    background-image: linear-gradient(#0d9108, #4bf14b);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.agricultura-div-conteudo{
+    width: 35%;
+}
+
+.agricultura-titulo{
+    padding: 24px 0;
+}
